@@ -21,4 +21,5 @@ After graduation, I hope to become a **software developer** and eventually branc
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/robert-wyman-6ba52a233/)  
   
-![My Setup](https://FB_IMG_1705679666924.jpg)
+![My Profile Image](FB_IMG_1705679666924.jpg)
+
